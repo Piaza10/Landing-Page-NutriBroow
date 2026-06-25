@@ -41,11 +41,6 @@ npm install
 npm run dev
 ```
 
-A aplicação ficará disponível, por padrão, em:
-
-```txt
-http://localhost:5173
-```
 
 ## Scripts úteis
 
@@ -67,5 +62,5 @@ npm audit
 
 ## Contatos configurados
 
-- WhatsApp: `https://wa.me/5521980966678`
+- WhatsApp: `https://wa.me/*******`
 - Instagram: `https://www.instagram.com/nutribroow/`
