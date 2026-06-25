@@ -1,0 +1,27 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pyc
+*.db
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+dist/
+
+# Local editor settings
+.vscode/
+
+# Logs and local caches
+*.log
+coverage/
+frontend/coverage/
+# OS metadata and internal agent notes
+*:Zone.Identifier
+docs/superpowers/
+# Backend local workspace
+backend/
+Dockerfile
+docker-compose.yml
+.dockerignore
